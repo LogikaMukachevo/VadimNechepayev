@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(61, 61, 61);
+    color: white;
+}
+
+p{
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+img{
+    display: block;
+    border: 10px double black;
+    border-radius: 11px;
+    margin: 0 auto;
+    padding: 10px;
+   
+}
+header{
+    border: 1px double purple;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: purple;
+}
+h1{ 
+    border:3px dashed rgb(103, 213, 88); 
+    text-align: center;
+    color: rgb(103, 213, 88); 
+    padding: 10px;
+}
+
+footer{
+    border: 1px double purple;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: purple;
+}
